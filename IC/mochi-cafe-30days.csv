@@ -1,0 +1,31 @@
+day,weekday,weather,cups_sold,wait_minutes,top_drink,mochi_naps,temperature_c,iced_drinks
+1,Mon,Rainy,60,39.6,Matcha,5,22.6,16
+2,Tue,Rainy,46,4.4,Matcha,3,23.4,22
+3,Wed,Cloudy,39,2.6,Hot chocolate,4,27.1,25
+4,Thu,Sunny,43,3.2,Hot chocolate,4,32.2,33
+5,Fri,Cloudy,46,6.9,Matcha,6,28.9,27
+6,Sat,Cloudy,51,6.9,Latte,4,29.7,32
+7,Sun,Cloudy,66,5.3,Hot chocolate,2,27.5,30
+8,Mon,Cloudy,51,3.7,Latte,4,26.7,27
+9,Tue,Cloudy,34,2.9,Hot chocolate,2,26.7,19
+10,Wed,Rainy,50,9.6,Matcha,2,25.9,18
+11,Thu,Cloudy,47,4.1,Latte,5,27.1,27
+12,Fri,Cloudy,39,11.7,Latte,5,30.3,24
+13,Sat,Sunny,75,5.1,Latte,2,30.1,44
+14,Sun,Sunny,58,2.0,Bubble tea,4,28.1,36
+15,Mon,Cloudy,39,8.4,Latte,3,27.1,25
+16,Tue,Sunny,51,13.2,Latte,6,31.9,39
+17,Wed,Cloudy,49,4.8,Bubble tea,4,25.5,21
+18,Thu,Sunny,56,11.7,Latte,3,31.2,35
+19,Fri,Rainy,47,3.2,Latte,4,22.1,17
+20,Sat,Sunny,128,31.5,Latte,3,31.6,58
+21,Sun,Cloudy,64,4.6,Latte,3,26.7,29
+22,Mon,Rainy,42,5.5,Bubble tea,5,27.3,23
+23,Tue,Sunny,50,6.8,Matcha,6,31.5,33
+24,Wed,Sunny,47,16.1,Bubble tea,4,28.0,27
+25,Thu,Cloudy,42,6.6,Latte,3,23.9,24
+26,Fri,Rainy,49,5.6,Latte,4,21.4,13
+27,Sat,Cloudy,53,4.3,Latte,4,26.7,23
+28,Sun,Sunny,64,6.4,Latte,3,30.1,41
+29,Mon,Sunny,43,3.1,Hot chocolate,4,30.6,31
+30,Tue,Sunny,42,17.5,Latte,5,32.7,38

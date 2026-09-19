@@ -5,6 +5,8 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 
 ## GitHub account
 
+Course quick review at [Google Sheet](https://docs.google.com/spreadsheets/d/1g58sgMcc4aqXp-TInBQ7DRRuOJPUWzah42uhG_-apTE/edit?usp=sharing)
+
 Create a GitHub account, then fill in your student ID, name and GitHub username in the
 [sign-up sheet](https://docs.google.com/spreadsheets/d/185TmkoMLxjUDIguGQuQVRg3smQH2vdUPpjappVo-XYE/edit?usp=sharing).
 

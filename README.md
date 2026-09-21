@@ -3,6 +3,14 @@
 *Prof. Huei-Wen Teng<br>
 Department of Information Management and Finance <br>National Yang Ming Chiao Tung University*
 
+---
+
+> 📢 **Homework Policy & Deadline**
+> * **Submission Deadline:** Homework assignments for each chapter are due **before the start of the next class**.
+> * Please make sure to submit your assignments on time via the designated platform to avoid any penalty.
+
+---
+
 ## GitHub account
 
 Course quick review at [Google Sheet](https://docs.google.com/spreadsheets/d/1g58sgMcc4aqXp-TInBQ7DRRuOJPUWzah42uhG_-apTE/edit?usp=sharing)

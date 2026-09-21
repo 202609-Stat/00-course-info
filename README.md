@@ -4,11 +4,9 @@
 Department of Information Management and Finance <br>National Yang Ming Chiao Tung University*
 
 ---
-
-> 📢 **Homework Policy & Deadline**
-> * **Submission Deadline:** Homework assignments for each chapter are due **before the start of the next class**.
-> * Please make sure to submit your assignments on time via the designated platform to avoid any penalty.
-
+> **Homework Policy & Deadline**
+> - Submission Deadline: Homework assignments for each chapter are due before the start of the next class.
+> - Please submit your assignments on time via the designated platform to avoid grade penalties.
 ---
 
 ## GitHub account

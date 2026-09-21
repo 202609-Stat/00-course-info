@@ -3,12 +3,6 @@
 *Prof. Huei-Wen Teng<br>
 Department of Information Management and Finance <br>National Yang Ming Chiao Tung University*
 
----
-> **Homework Policy & Deadline**
-> - Submission Deadline: Homework assignments for each chapter are due before the start of the next class.
-> - Please submit your assignments on time via the designated platform to avoid grade penalties.
----
-
 ## GitHub account
 
 Course quick review at [Google Sheet](https://docs.google.com/spreadsheets/d/1g58sgMcc4aqXp-TInBQ7DRRuOJPUWzah42uhG_-apTE/edit?usp=sharing)
@@ -38,3 +32,7 @@ Textbook: Mendenhall, Beaver & Beaver, *Introduction to Probability and Statisti
 | **Ch. 13** Multiple Linear Regression Analysis | [PDF](slides/stat-ch13.pdf) | — |
 | **Ch. 14** Analysis of Categorical Data | [PDF](slides/stat-ch14.pdf) | — |
 | **Ch. 15** Nonparametric Statistics | [PDF](slides/stat-ch15.pdf) | — |
+
+## Homework Policy & Deadline
+Submission Deadline: Homework assignments for each chapter are due before the start of the next class.
+Please submit your assignments on time via the designated platform to avoid grade penalties.

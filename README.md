@@ -46,9 +46,6 @@ Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 | §3.2 | Q25, Q27 |
 | §4.1 | Q24, Q27 |
 | §4.2 | Q21, Q29 |
-| §4.3 | Q15, Q16 |
-| §4.4 | Q21 |
-| §4.5 | Q7, Q8 |
 | §5.1 | Q28, Q34 |
 | §5.2 | Q44, Q47 |
 | §6.1 | Q17 |
@@ -94,10 +91,6 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 4.1 | C04.1 事件和樣本空間 (1/2) | 24:24 | https://youtu.be/v0bwy79dxZI |
 | 4.1 | C04.1 事件和樣本空間 (2/2) | 12:42 | https://youtu.be/kgBux7zqwKM |
 | 4.2 | C04.2 用簡單事件計算機率 | 26:38 | https://youtu.be/kSMEl15OIas |
-| 4.3 | C04.3 有用的計數規則 | 23:27 | https://youtu.be/cR0HJYt9u6g |
-| 4.4 | C04.4.a 計算機率的規則 | 33:44 | https://youtu.be/8fjU4O40UnI |
-| 4.4 | C04.4.b 計算機率的規則 | 15:07 | https://youtu.be/DcZF4ZMY_sI |
-| 4.5 | C04.5 貝式法則 | 11:52 | https://youtu.be/SGea_sHv82E |
 | 5.1 | C05.1 離散隨機變數和機率分配 | 24:30 | https://youtu.be/raF6nfJ0j3A |
 | 5.2 | C05.2 二項式機率分配 | 33:00 | https://youtu.be/K8W7U7ZyG3s |
 | 6.1 | C06.1 連續隨機變數的機率分配 | 29:55 | https://youtu.be/oVI-QCSdOSE |

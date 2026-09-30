@@ -71,24 +71,20 @@ No homework assigned yet for Ch. 13, 14, 15.
 
 ## Homework Policy & Submission Guidelines
 
-## 1. Submission Deadline
+**1. Submission Deadline**
 * **Standard Deadline:** Homework assignments for each chapter are due **before the start of the next in-person class**.
-* **Bi-weekly Flex Rule:** For lecture videos and assignments posted during off-class (intermediate) weeks, students are also granted **two weeks** to submit (due before the next in-person class). 
+* **Bi-weekly Flex Rule:** For lecture videos and assignments posted during off-class (intermediate) weeks, students are also granted **two weeks** to submit. 
 * Please submit your assignments on time to avoid grade penalties.
 
-## 2. Assignment Content & Naming Format
-* **Question Numbers:** Please clearly label all question numbers in your submission (e.g., $\text{Problem 1}$, $\text{Q1.1}$).
-* **File Naming:** Name your files strictly in the format $\text{HW-MMDD}$ based on the release date.
+**2. Assignment Content & Naming Format**
+* **Question Numbers:** Please clearly label all question numbers in your submission (e.g., Problem 1, Q1.1).
+* **File Naming:** Name your files strictly in the format `HW-MMDD` based on the release date.
   * *Example:* For an assignment posted on September 30, the file name must be `HW-0930`.
 
-## 3. File Formats & Submission Platform
+**3. File Formats & Submission Platform**
 * **Supported Formats:** `.pdf`, `.jpg`, `.md`, and code files (e.g., `.ipynb`, `.r`).
 * **Submission Path:** Please create a folder named `homework/` under your personal GitHub repository and place your files inside:
-  $$\text{Your-Repo} / \text{homework} / \text{HW-MMDD.extension}$$
-
----
-If you have any questions, feel free to contact TA Tiffany via email: [tiffanylien16@gmail.com](mailto:tiffanylien16@gmail.com)
-
+  `Your-Repo / homework / HW-MMDD.extension`
 ## Lecture videos
 
 Prof. Teng's recorded lectures on YouTube, by chapter.

@@ -56,5 +56,3 @@ Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
 1. 7.4 Assessing normality
 2. 8.4, 8.5, 8.7
 3. 9.3, 9.4, 9.5
-
-with lengths.

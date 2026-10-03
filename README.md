@@ -3,6 +3,18 @@
 *Prof. Huei-Wen Teng<br>
 Department of Information Management and Finance <br>National Yang Ming Chiao Tung University*
 
+## Course materials
+
+- Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
+- Slides by chapter. See **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
+
+## Homework
+
+- **[list-homework.md](list-homework.md)** — textbook exercises for each section.
+- **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
+
+See **[list-lecture-vedios.md](list-lecture-vedios.md)** — Prof. Teng's recorded lectures on YouTube, by chapter, 
+
 ## Weekly plan
 
 - ✅ Week 1 (9/19)
@@ -50,17 +62,4 @@ Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
 2. 8.4, 8.5, 8.7
 3. 9.3, 9.4, 9.5
 
-Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
-
-## Slides by chapter
-
-See **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
-
-## Homework
-
-- **[list-homework.md](list-homework.md)** — textbook exercises for each section.
-- **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
-
-## Lecture videos
-
-See **[list-lecture-vedios.md](list-lecture-vedios.md)** — Prof. Teng's recorded lectures on YouTube, by chapter, with lengths.
+with lengths.

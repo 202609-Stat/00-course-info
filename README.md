@@ -53,6 +53,6 @@ Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
 
 ### After class (videos)
 
-1. Estimation: 8.1–8.2 Point estimation; 7.4 Assessing normality; 8.3 Interval estimation (one worked example)
+1. Estimation: 7.4 Assessing normality; 8.3 Interval estimation (one worked example)
 2. Testing a mean: 9.1 (recap); 9.2 Large-sample test about a population mean
 3. Proportions and sample size: 7.5 (recap); 9.4 Large-sample test about a proportion; 8.7 Choosing the sample size

@@ -14,6 +14,25 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 - 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13
 - ❌ Week 8 (12/26)  No Class (行憲紀念日）
 
+## Week 1 (0919)
+
+### Onsite
+
+1. Syllabus, GitHub account and your private repo
+2. Self-introduction slides (MFS), saved as PDF in your repo
+3. Ch 1 Describing Data with Graphs
+4. Ch 2 Describing Data with Numerical Measures
+5. Ch 3 Describing Bivariate Data
+6. In-class exercise with AI: [IC-0919](IC/IC-0919.md) (Mochi's Cat Café)
+
+### Online
+
+1. 4.1, 4.2
+2. 5.1, 5.2
+3. 6.1, 6.2
+
+Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
+
 ## Slides by chapter
 
 See **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.

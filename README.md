@@ -5,10 +5,20 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 
 ## GitHub account
 
-Course quick review at [Google Sheet](https://docs.google.com/spreadsheets/d/1g58sgMcc4aqXp-TInBQ7DRRuOJPUWzah42uhG_-apTE/edit?usp=sharing)
-
 Create a GitHub account, then fill in your student ID, name and GitHub username in the
 [sign-up sheet](https://docs.google.com/spreadsheets/d/185TmkoMLxjUDIguGQuQVRg3smQH2vdUPpjappVo-XYE/edit?usp=sharing).
+
+## Weekly plan
+
+- ✅ Week 1 (9/19)
+- [ ]  Week 2 (10/3)
+- 🥳 Week 3 (10/17) Exam 1: Ch 1 to 9
+- [ ] Week 4 (10/31)
+- [ ] Week 5 (11/14)
+- ❌ Week 6 (11/28) No Class (選舉日）
+- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13
+- ❌ Week 8 (12/26)  No Class (行憲紀念日）
+
 
 ## Slides by chapter
 

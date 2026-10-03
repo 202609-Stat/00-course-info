@@ -58,7 +58,8 @@ See **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapt
 
 ## Homework
 
-See **[list-homework.md](list-homework.md)** — textbook exercises for each section, and the homework policy and submission guidelines.
+- **[list-homework.md](list-homework.md)** — textbook exercises for each section.
+- **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
 
 ## Lecture videos
 

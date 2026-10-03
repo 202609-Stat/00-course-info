@@ -24,6 +24,7 @@ Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 | §7.5 | Q28, Q31 |
 | §8.2 | Q25, Q26 |
 | §8.3 | Q17, Q24 |
+| §8.7 | Q1, Q8 |
 | §9.1 | Q13, Q14, Q15 |
 | §9.2 | Q24, Q25 |
 | §9.4 | Q7, Q9 |
@@ -34,7 +35,5 @@ Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 | §12.1 | Q22 |
 | §12.2 | Q4, Q10, Q13 |
 | §12.3 | Q1, Q9(a)–(c) |
-
-No homework assigned yet for Ch. 13, 14, 15.
 
 Submission rules: see **[homework-policy.md](homework-policy.md)**.

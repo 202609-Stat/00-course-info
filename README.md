@@ -5,15 +5,10 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 
 ## Course materials
 
-- Videos: see [list-lecture-vedios.md](list-lecture-vedios.md).
-- Slides by chapter. See **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
-
-## Homework
-
+- **[list-lecture-vedios.md](list-lecture-vedios.md)** - online vedios.
+- **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
 - **[list-homework.md](list-homework.md)** — textbook exercises for each section.
 - **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
-
-See **[list-lecture-vedios.md](list-lecture-vedios.md)** — Prof. Teng's recorded lectures on YouTube, by chapter, 
 
 ## Weekly plan
 

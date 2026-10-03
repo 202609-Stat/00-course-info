@@ -3,11 +3,6 @@
 *Prof. Huei-Wen Teng<br>
 Department of Information Management and Finance <br>National Yang Ming Chiao Tung University*
 
-## GitHub account
-
-Create a GitHub account, then fill in your student ID, name and GitHub username in the
-[sign-up sheet](https://docs.google.com/spreadsheets/d/185TmkoMLxjUDIguGQuQVRg3smQH2vdUPpjappVo-XYE/edit?usp=sharing).
-
 ## Weekly plan
 
 - ✅ Week 1 (9/19)
@@ -18,7 +13,6 @@ Create a GitHub account, then fill in your student ID, name and GitHub username 
 - ❌ Week 6 (11/28) No Class (選舉日）
 - 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13
 - ❌ Week 8 (12/26)  No Class (行憲紀念日）
-
 
 ## Slides by chapter
 
@@ -43,7 +37,6 @@ Textbook: Mendenhall, Beaver & Beaver, *Introduction to Probability and Statisti
 | **Ch. 15** Nonparametric Statistics | [PDF](slides/stat-ch15.pdf) |
 
 ## Homework
-
 Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 
 | Section | Exercises |
@@ -95,6 +88,7 @@ No homework assigned yet for Ch. 13, 14, 15.
 * **Supported Formats:** `.pdf`, `.jpg`, `.md`, and code files (e.g., `.ipynb`, `.r`).
 * **Submission Path:** Please create a folder named `homework/` under your personal GitHub repository and place your files inside:
   `Your-Repo / homework / HW-MMDD.extension`
+
 ## Lecture videos
 
 Prof. Teng's recorded lectures on YouTube, by chapter.

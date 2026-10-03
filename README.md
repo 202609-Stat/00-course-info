@@ -6,7 +6,7 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 ## Weekly plan
 
 - ✅ Week 1 (9/19)
-- [ ]  Week 2 (10/3)
+- ✅ Week 2 (10/3)
 - 🥳 Week 3 (10/17) Exam 1: Ch 1 to 9
 - [ ] Week 4 (10/31)
 - [ ] Week 5 (11/14)

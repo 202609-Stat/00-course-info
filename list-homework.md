@@ -30,7 +30,6 @@ Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 | §9.4 | Q7, Q9 |
 | §10.1 | Q1 |
 | §10.2 | Q22, Q30 |
-| §10.5 | Q7, Q9 |
 | §11.2 | Q3, Q8, Q15 |
 | §12.1 | Q22 |
 | §12.2 | Q4, Q10, Q13 |

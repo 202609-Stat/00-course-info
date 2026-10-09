@@ -12,7 +12,7 @@ Textbook: Mendenhall, Beaver & Beaver, *Introduction to Probability and Statisti
 | **Ch. 4** Probability | [PDF](slides/stat-ch04%20(4.1-4.5).pdf) |
 | **Ch. 5** Discrete Probability Distributions | [PDF](slides/stat-ch05.pdf) |
 | **Ch. 6** The Normal Probability Distribution | [PDF](slides/stat-ch06.pdf) |
-| **Ch. 7** Sampling Distributions | [PDF](slides/stat-ch07.pdf) |
+| **Ch. 7** Sampling Distributions | [PDF](slides/stat-ch07.pdf) — updated 2026-10-09 (new §7.4 pages: how to draw a normal probability plot) |
 | **Ch. 8** Large-Sample Estimation | [PDF](slides/stat-ch08.pdf) |
 | **Ch. 9** Large-Sample Tests of Hypotheses | [PDF](slides/stat-ch09.pdf) |
 | **Ch. 10** Inference from Small Samples | [PDF](slides/stat-ch10.pdf) |

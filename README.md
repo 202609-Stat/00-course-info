@@ -60,15 +60,15 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [I
 
 #### In class
 
-1. Review of the online videos (4.1–6.2) with the IC-1003 warm-up, Q1–Q3
-2. 6.3 Normal approximation to the binomial
-3. 7.1 Sampling plans; 7.2 Sampling distributions
-4. 7.3 Central Limit Theorem; 7.5 Sample proportion; 8.1–8.2 Point estimation
-5. 8.3 Interval estimation; 9.1 A statistical test of hypothesis; 9.2 Large-sample test about a population mean
-6. 9.2 (continued); in-class exercise with AI: IC-1003 case study "Keep the weekend helper?" (data: [mochi-orders-samples.csv](IC/mochi-orders-samples.csv))
+1. Review of the online videos (§4.1–§6.2) with the IC-1003 warm-up, Q1–Q3
+2. §6.3 Normal approximation to the binomial
+3. §7.1 Sampling plans; §7.2 Sampling distributions
+4. §7.3 Central Limit Theorem; §7.5 Sample proportion; §8.1–§8.2 Point estimation
+5. §8.3 Interval estimation; §9.1 A statistical test of hypothesis; §9.2 Large-sample test about a population mean
+6. §9.2 (continued); in-class exercise with AI: IC-1003 case study "Keep the weekend helper?" (data: [mochi-orders-samples.csv](IC/mochi-orders-samples.csv))
 
 #### After class ([videos](list-lecture-vedios.md))
 
-1. 7.4 Assessing normality; 8.3 Interval estimation (one worked example)
-2. 9.1 (recap); 9.2 Large-sample test about a population mean
-3. 7.5 (recap); 9.4 Large-sample test about a proportion; 8.7 Choosing the sample size
+1. §7.4 Assessing normality; §8.3 Interval estimation (one worked example)
+2. §9.1 (recap); §9.2 Large-sample test about a population mean
+3. §7.5 (recap); §9.4 Large-sample test about a proportion; §8.7 Choosing the sample size

@@ -24,6 +24,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 6.2 | C06.2 常態機率分配 | 41:20 | https://youtu.be/0IdkdhL4l_Q |
 | 7.4 | C07.4 評估常態性 (Assessing normality) — self-check: https://ars.particify.de/p/41304079/series/Ch07.4%20Assessing%20normality | 16:05 | https://youtu.be/ZM7NSfbmbU4 |
 | 7.5 | C07.5 樣本比例的抽樣分配 (Sample proportion) — self-check: https://ars.particify.de/p/41304079/series/Ch07.5%20Sample%20proportion | 21:14 | https://youtu.be/bGYVFmg9b9A |
+| 8.3.1 | C08.3.1 區間估計：信賴區間公式的推導 (Interval estimation, part 1: derivations for a mean and a proportion) | 25:03 | https://youtu.be/IKmKW6_N4M4 |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
@@ -42,4 +43,4 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 15.6 | C15.6 Friedman Fr test | 10:45 | https://youtu.be/bXNNChjvoOM |
 | 15.7 | Ch15.7 無母數統計排序統計量 | 19:33 | https://youtu.be/1uRgV5Ace1M |
 
-Chapter 7 has 7.4 and 7.5 so far; chapters 8, 9, 13 and 14 have no video yet.
+Chapter 7 has 7.4 and 7.5; chapter 8 has 8.3 so far; chapters 9, 13 and 14 have no video yet.

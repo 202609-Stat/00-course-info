@@ -22,6 +22,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 5.2 | C05.2 二項式機率分配 | 33:00 | https://youtu.be/K8W7U7ZyG3s |
 | 6.1 | C06.1 連續隨機變數的機率分配 | 29:55 | https://youtu.be/oVI-QCSdOSE |
 | 6.2 | C06.2 常態機率分配 | 41:20 | https://youtu.be/0IdkdhL4l_Q |
+| 7.4 | C07.4 評估常態性 (Assessing normality) — self-check: https://ars.particify.de/p/41304079/series/Ch07.4%20Assessing%20normality | 16:05 | https://youtu.be/ZM7NSfbmbU4 |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
@@ -40,4 +41,4 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 15.6 | C15.6 Friedman Fr test | 10:45 | https://youtu.be/bXNNChjvoOM |
 | 15.7 | Ch15.7 無母數統計排序統計量 | 19:33 | https://youtu.be/1uRgV5Ace1M |
 
-Chapters 7, 8, 9, 13 and 14 have no video yet.
+Chapter 7 has 7.4 only so far; chapters 8, 9, 13 and 14 have no video yet.

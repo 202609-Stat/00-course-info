@@ -26,6 +26,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 7.5 | C07.5 樣本比例的抽樣分配 (Sample proportion) — self-check: https://ars.particify.de/p/41304079/series/Ch07.5%20Sample%20proportion | 21:14 | https://youtu.be/bGYVFmg9b9A |
 | 8.3.1 | C08.3.1 區間估計：信賴區間公式的推導 (Interval estimation, part 1: derivations for a mean and a proportion) | 25:03 | https://youtu.be/IKmKW6_N4M4 |
 | 8.3.2 | C08.3.2 區間估計：課本例題練習 (Interval estimation, part 2: textbook examples) — self-check: https://ars.particify.de/p/41304079/series/Ch08.3%20Interval%20estimation | 23:11 | https://youtu.be/Bpoq2_ZHrYo |
+| 8.7 | C08.7 樣本數的選擇 (Choosing the sample size) — self-check: https://ars.particify.de/p/41304079/series/Ch08.7%20Choosing%20the%20sample%20size | 17:53 | https://youtu.be/IB7EV6ignfI |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
@@ -44,4 +45,4 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 15.6 | C15.6 Friedman Fr test | 10:45 | https://youtu.be/bXNNChjvoOM |
 | 15.7 | Ch15.7 無母數統計排序統計量 | 19:33 | https://youtu.be/1uRgV5Ace1M |
 
-Chapter 7 has 7.4 and 7.5; chapter 8 has 8.3 so far; chapters 9, 13 and 14 have no video yet.
+Chapter 7 has 7.4 and 7.5; chapter 8 has 8.3 and 8.7; chapters 9, 13 and 14 have no video yet.

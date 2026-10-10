@@ -31,6 +31,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 9.2.1 | C09.2.1 母體平均數的大樣本檢定：方法 (Large-sample test about a mean: the method) | 23:09 | https://youtu.be/TaL7RGCrwTs |
 | 9.2.2 | C09.2.2 母體標準差未知時 (When sigma is unknown) | 8:29 | https://youtu.be/7YZHBqxezTg |
 | 9.2.3 | C09.2.3 兩個例子 (Large-sample test about a mean: two examples) — self-check: https://ars.particify.de/p/41304079/series/Ch09.2%20Test%20about%20a%20population%20mean | 15:22 | https://youtu.be/Aoi5b6Liqb0 |
+| 9.4 | C09.4 母體比例的大樣本檢定 (Large-sample test about a proportion) — self-check: https://ars.particify.de/p/41304079/series/Ch09.4%20Test%20about%20a%20proportion | 18:15 | https://youtu.be/ZNCNqTV8uR4 |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
@@ -49,4 +50,4 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 15.6 | C15.6 Friedman Fr test | 10:45 | https://youtu.be/bXNNChjvoOM |
 | 15.7 | Ch15.7 無母數統計排序統計量 | 19:33 | https://youtu.be/1uRgV5Ace1M |
 
-Chapter 7 has 7.4 and 7.5; chapter 8 has 8.3 and 8.7; chapter 9 has 9.1 and 9.2 (in progress); chapters 13 and 14 have no video yet.
+Chapter 7 has 7.4 and 7.5; chapter 8 has 8.3 and 8.7; chapter 9 has 9.1, 9.2 and 9.4; chapters 13 and 14 have no video yet.

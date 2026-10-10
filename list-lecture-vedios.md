@@ -29,6 +29,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 8.7 | C08.7 樣本數的選擇 (Choosing the sample size) — self-check: https://ars.particify.de/p/41304079/series/Ch08.7%20Choosing%20the%20sample%20size | 17:53 | https://youtu.be/IB7EV6ignfI |
 | 9.1 | C09.1 假設檢定的基本概念 (A statistical test of hypothesis) — self-check: https://ars.particify.de/p/41304079/series/Ch09.1%20A%20statistical%20test%20of%20hypothesis | 31:03 | https://youtu.be/WBK8V8fPq_c |
 | 9.2.1 | C09.2.1 母體平均數的大樣本檢定：方法 (Large-sample test about a mean: the method) | 23:09 | https://youtu.be/TaL7RGCrwTs |
+| 9.2.2 | C09.2.2 母體標準差未知時 (When sigma is unknown) | 8:29 | https://youtu.be/7YZHBqxezTg |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |

@@ -14,7 +14,7 @@ Textbook: Mendenhall, Beaver & Beaver, *Introduction to Probability and Statisti
 | **Ch. 6** The Normal Probability Distribution | [PDF](slides/stat-ch06.pdf) |
 | **Ch. 7** Sampling Distributions | [PDF](slides/stat-ch07.pdf) — updated 2026-10-09 (new §7.4 pages: how to draw a normal probability plot) |
 | **Ch. 8** Large-Sample Estimation | [PDF](slides/stat-ch08.pdf) — updated 2026-10-10 (CI for p derivation; §8.7 election-poll example and the pq figure) |
-| **Ch. 9** Large-Sample Tests of Hypotheses | [PDF](slides/stat-ch09.pdf) |
+| **Ch. 9** Large-Sample Tests of Hypotheses | [PDF](slides/stat-ch09.pdf) — updated 2026-10-10 (page numbers; RR and p-value figures for two-, right- and left-sided tests) |
 | **Ch. 10** Inference from Small Samples | [PDF](slides/stat-ch10.pdf) |
 | **Ch. 11** The Analysis of Variance | [PDF](slides/stat-ch11.pdf) |
 | **Ch. 12** Simple Linear Regression and Correlation | [PDF](slides/stat-ch12.pdf) |

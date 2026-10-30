@@ -2,3 +2,4 @@
 gradebook.csv
 *.numbers
 gradebook*.csv
+_*/

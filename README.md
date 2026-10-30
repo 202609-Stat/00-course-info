@@ -20,7 +20,7 @@ In the following, I will use § to abbreviate Section.
 - [ ] Week 4 (10/31)
 - [ ] Week 5 (11/14)
 - ❌ Week 6 (11/28) No Class (選舉日）
-- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13
+- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13 — §10.1–10.5, 11.1–11.4, 12.1–12.6, 13.1, 13.2, 13.4 (not 10.6, 10.7, 11.5–11.7, 13.3, 13.5–13.7); t, χ² and F tables are printed on the paper
 - ❌ Week 8 (12/26)  No Class (行憲紀念日）
 
 ## Contents covered in Exam 1
@@ -37,7 +37,7 @@ In the following, I will use § to abbreviate Section.
 | ch08 | §8.1 – §8.3, §8.7 |
 | ch09 | §9.1, §9.2, §9.4 |
 
-Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [IC-0919](IC/IC-0919.md) (Mochi's Cat Café), IC-1003 "Keep the weekend helper?" (data: [mochi-orders-samples.csv](IC/mochi-orders-samples.csv)).
+Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [IC-0919](03-case-study/IC-0919.md) (Mochi's Cat Café), IC-1003 "Keep the weekend helper?" (data: [mochi-orders-samples.csv](03-case-study/mochi-orders-samples.csv)).
 
 ### Week 1 (0919)
 
@@ -48,7 +48,7 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [I
 3. §1.1 - §1.4 Describing Data with Graphs
 4. §2.1 - §2.4 Describing Data with Numerical Measures
 5. §3.1 - §3.2 Describing Bivariate Data
-6. In-class exercise with AI: [IC-0919](IC/IC-0919.md) (Mochi's Cat Café)
+6. In-class exercise with AI: [IC-0919](03-case-study/IC-0919.md) (Mochi's Cat Café)
 
 #### After class ([videos](list-lecture-vedios.md))
 
@@ -65,7 +65,7 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [I
 3. §7.1 Sampling plans; §7.2 Sampling distributions
 4. §7.3 Central Limit Theorem; §7.5 Sample proportion; §8.1–§8.2 Point estimation
 5. §8.3 Interval estimation; §9.1 A statistical test of hypothesis; §9.2 Large-sample test about a population mean
-6. §9.2 (continued); in-class exercise with AI: IC-1003 case study "Keep the weekend helper?" (data: [mochi-orders-samples.csv](IC/mochi-orders-samples.csv))
+6. §9.2 (continued); in-class exercise with AI: IC-1003 case study "Keep the weekend helper?" (data: [mochi-orders-samples.csv](03-case-study/mochi-orders-samples.csv))
 
 #### After class ([videos](list-lecture-vedios.md))
 

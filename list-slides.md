@@ -6,18 +6,18 @@ Textbook: Mendenhall, Beaver & Beaver, *Introduction to Probability and Statisti
 
 | Chapter | Slides |
 |---|---|
-| **Ch. 1** Describing Data with Graphs | [PDF](slides/stat-ch01.pdf) |
-| **Ch. 2** Describing Data with Numerical Measures | [PDF](slides/stat-ch02.pdf) |
-| **Ch. 3** Describing Bivariate Data | [PDF](slides/stat-ch03.pdf) |
-| **Ch. 4** Probability | [PDF](slides/stat-ch04%20(4.1-4.5).pdf) |
-| **Ch. 5** Discrete Probability Distributions | [PDF](slides/stat-ch05.pdf) |
-| **Ch. 6** The Normal Probability Distribution | [PDF](slides/stat-ch06.pdf) |
-| **Ch. 7** Sampling Distributions | [PDF](slides/stat-ch07.pdf) — updated 2026-10-09 (new §7.4 pages: how to draw a normal probability plot) |
-| **Ch. 8** Large-Sample Estimation | [PDF](slides/stat-ch08.pdf) — updated 2026-10-10 (CI for p derivation; §8.7 election-poll example and the pq figure) |
-| **Ch. 9** Large-Sample Tests of Hypotheses | [PDF](slides/stat-ch09.pdf) — updated 2026-10-10 (page numbers; RR and p-value figures; latest edits) |
-| **Ch. 10** Inference from Small Samples | [PDF](slides/stat-ch10.pdf) |
-| **Ch. 11** The Analysis of Variance | [PDF](slides/stat-ch11.pdf) |
-| **Ch. 12** Simple Linear Regression and Correlation | [PDF](slides/stat-ch12.pdf) |
-| **Ch. 13** Multiple Linear Regression Analysis | [PDF](slides/stat-ch13.pdf) |
-| **Ch. 14** Analysis of Categorical Data | [PDF](slides/stat-ch14.pdf) |
-| **Ch. 15** Nonparametric Statistics | [PDF](slides/stat-ch15.pdf) |
+| **Ch. 1** Describing Data with Graphs | [PDF](01-slides/stat-ch01.pdf) |
+| **Ch. 2** Describing Data with Numerical Measures | [PDF](01-slides/stat-ch02.pdf) |
+| **Ch. 3** Describing Bivariate Data | [PDF](01-slides/stat-ch03.pdf) |
+| **Ch. 4** Probability | [PDF](01-slides/stat-ch04%20(4.1-4.5).pdf) |
+| **Ch. 5** Discrete Probability Distributions | [PDF](01-slides/stat-ch05.pdf) |
+| **Ch. 6** The Normal Probability Distribution | [PDF](01-slides/stat-ch06.pdf) |
+| **Ch. 7** Sampling Distributions | [PDF](01-slides/stat-ch07.pdf) — updated 2026-10-09 (new §7.4 pages: how to draw a normal probability plot) |
+| **Ch. 8** Large-Sample Estimation | [PDF](01-slides/stat-ch08.pdf) — updated 2026-10-10 (CI for p derivation; §8.7 election-poll example and the pq figure) |
+| **Ch. 9** Large-Sample Tests of Hypotheses | [PDF](01-slides/stat-ch09.pdf) — updated 2026-10-10 (page numbers; RR and p-value figures; latest edits) |
+| **Ch. 10** Inference from Small Samples | [PDF](01-slides/stat-ch10.pdf) |
+| **Ch. 11** The Analysis of Variance | [PDF](01-slides/stat-ch11.pdf) |
+| **Ch. 12** Simple Linear Regression and Correlation | [PDF](01-slides/stat-ch12.pdf) |
+| **Ch. 13** Multiple Linear Regression Analysis | [PDF](01-slides/stat-ch13.pdf) |
+| **Ch. 14** Analysis of Categorical Data | [PDF](01-slides/stat-ch14.pdf) |
+| **Ch. 15** Nonparametric Statistics | [PDF](01-slides/stat-ch15.pdf) |

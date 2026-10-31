@@ -20,7 +20,7 @@ In the following, I will use § to abbreviate Section.
 - [ ] Week 4 (10/31)
 - [ ] Week 5 (11/14)
 - ❌ Week 6 (11/28) No Class (選舉日）
-- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13 — §10.1–10.5, 11.1–11.4, 12.1–12.6, 13.1, 13.2, 13.4 (not 10.6, 10.7, 11.5–11.7, 13.3, 13.5–13.7); t, χ² and F tables are printed on the paper
+- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13 — §10.1–10.6, 11.1–11.3, 12.1–12.6, 13.1, 13.2, 13.4 (not 10.7, 11.4–11.7, 13.3, 13.5–13.7); t, χ² and F tables are printed on the paper
 - ❌ Week 8 (12/26)  No Class (行憲紀念日）
 
 ## Contents covered in Exam 1

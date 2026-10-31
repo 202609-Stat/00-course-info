@@ -34,13 +34,13 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 9.4 | C09.4 母體比例的大樣本檢定 (Large-sample test about a proportion) — self-check: https://ars.particify.de/p/41304079/series/Ch09.4%20Test%20about%20a%20proportion | 18:15 | https://youtu.be/ZNCNqTV8uR4 |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
-| 10.6 (optional, not in Exam 2) | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
-| 10.6 (optional, not in Exam 2) | C10.6 假設檢定 | 18:34 | https://youtu.be/gG7E3cv7IsU |
+| 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
+| 10.6 | C10.6 假設檢定 | 18:34 | https://youtu.be/gG7E3cv7IsU |
 | 11.3 | C11.3 Tukey's method | 11:52 | https://youtu.be/R1L6cUBTNX8 |
 | 11.3 | C11.3 Tukey's method 1/2 (English) | 10:04 | https://youtu.be/xbG2X0wyNo0 |
 | 11.3 | C11.3 Tukey's method 2/2 (English) | 19:54 | https://youtu.be/QYsRnZmYLyE |
-| 11.4 | C11.4 | 24:21 | https://youtu.be/qSdQea-5urw |
-| 11.4 | C11.4 RBD Tukey's method (English) | 10:49 | https://youtu.be/4eNVzc7YbGU |
+| 11.4 (optional, not in Exam 2) | C11.4 | 24:21 | https://youtu.be/qSdQea-5urw |
+| 11.4 (optional, not in Exam 2) | C11.4 RBD Tukey's method (English) | 10:49 | https://youtu.be/4eNVzc7YbGU |
 | 12.0 | C12.0 迴歸 overview | 3:47 | https://youtu.be/bStcM4D_I9k |
 | 12.1 | C12.1 簡單線性迴歸 | 18:32 | https://youtu.be/YcBncZxWmgk |
 | 12.1 | C12.1 LSE 公式推導 | 6:22 | https://youtu.be/CCswGP_AN20 |

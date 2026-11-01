@@ -9,6 +9,7 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 - **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
 - **[list-homework.md](list-homework.md)** — textbook exercises for each section.
 - **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
+- **[04-handouts](04-handouts/README.md)** — short Q&A handouts (e.g., [random variables vs. distributions](04-handouts/rv-vs-distribution.md)).
 
 In the following, I will use § to abbreviate Section. 
 

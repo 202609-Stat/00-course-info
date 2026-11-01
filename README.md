@@ -5,11 +5,11 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 
 ## Course materials
 
-- **[list-lecture-vedios.md](list-lecture-vedios.md)** - online vedios.
+- **[list-vedios.md](list-vedios.md)** - online vedios.
 - **[list-slides.md](list-slides.md)** — lecture slides (PDF) for each chapter.
 - **[list-homework.md](list-homework.md)** — textbook exercises for each section.
-- **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
 - **[list-artifacts.md](list-artifacts.md)** — interactive statistics demos (ready and planned).
+- **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
 - **[04-handouts](04-handouts/README.md)** — short Q&A handouts (e.g., [random variables vs. distributions](04-handouts/rv-vs-distribution.md)) and interactive demos (e.g., [chi-square from Z²](https://claude.ai/artifact/LdfPHdD6d4UbpLYokvTxCU)).
 
 In the following, I will use § to abbreviate Section. 

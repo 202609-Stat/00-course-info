@@ -148,3 +148,7 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [P
 #### Afternoon: Exam 2 (150 minutes)
 
 ### Week 8 (1226): No class (行憲紀念日)
+
+---
+
+© 2026 Huei-Wen Teng · FIMA Lumen. Course materials are licensed under [CC BY-NC-SA 4.0](LICENSE) unless noted otherwise; textbook content belongs to its publisher.

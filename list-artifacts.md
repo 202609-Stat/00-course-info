@@ -53,3 +53,5 @@ Questions or suggestions about these pages? Tell us in a one-minute form; your n
 對這些頁面有疑問或建議嗎？歡迎花一分鐘填寫表單，可不具名。
 
 **[Leave a comment / 填寫意見表 →](https://docs.google.com/forms/d/e/1FAIpQLSf-7mmgqvjLB7plzSDZUdUBGUnOJtH5gn4yUUJzsNfPEE-5GQ/viewform)**
+
+© 2026 Huei-Wen Teng · FIMA Lumen · [CC BY-NC-SA 4.0](LICENSE)

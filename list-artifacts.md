@@ -10,7 +10,7 @@ Interactive demos for the course. ✅ = ready (click the link); ⏳ = planned.
 
 ## ✅ How to build a chi-square distribution with 1 degree of freedom from Z²
 
-[Open the live demo](https://claude.ai/artifact/LdfPHdD6d4UbpLYokvTxCU) · [HTML file](04-handouts/chi-square-from-z2.html)
+[Open the live demo](https://claude.ai/artifact/LdfPHdD6d4UbpLYokvTxCU)
 
 Monte Carlo simulation: draw Z ~ N(0, 1), square it, and watch the draws of Z and Z² stack up into the N(0, 1) and χ²(1) densities. Histograms are overlaid with the theoretical PDFs. English / 中文.
 

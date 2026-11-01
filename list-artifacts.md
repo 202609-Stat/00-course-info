@@ -42,4 +42,4 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
 
 What helped? What is still unclear? Which demo would you like next?
 
-**[Leave a comment (Google Form)](https://docs.google.com/forms/d/1d2iW4ItNuRt0XvH1vNFLJ4sq0AdBcvpwNnqP2WuJFqY/viewform)**
+**[Leave a comment (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSf-7mmgqvjLB7plzSDZUdUBGUnOJtH5gn4yUUJzsNfPEE-5GQ/viewform)**

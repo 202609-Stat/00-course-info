@@ -44,6 +44,8 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
 
 - ✅ Random variable vs. distribution — [open the page](https://claude.ai/artifact/KiaXtCgTGThVHPzpYE9EyY)
   - Two short Q&As: how a random variable differs from its distribution, and why "normal variable" and "normal distribution" are not the same thing. English / 中文.
+- ✅ Why the claim goes in Hₐ, not H₀ — [open the page](https://claude.ai/artifact/76Kn8PkYeYRq98DufGGVRz)
+  - A student's question: 為什麼要把想驗證的 claim 放在 Hₐ 而非 H₀？這和型一、型二錯誤有什麼關係？ Answer: α is the only error we control, so "support the claim" must mean "reject H₀"; with the 880-ton example, a decision-vs-truth table and the court analogy. English / 中文.
 
 ---
 

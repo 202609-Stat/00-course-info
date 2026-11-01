@@ -36,6 +36,11 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
   - Monte Carlo simulation: draw Z ~ N(0, 1), square it, and watch the draws of Z and Z² stack up into the N(0, 1) and χ²(1) densities. Histograms are overlaid with the theoretical PDFs. English / 中文.
 - ⏳ How to build a t distribution with 3 degrees of freedom
 
+## Other commonly seen questions and answers
+
+- ✅ Random variable vs. distribution — [open the page](https://claude.ai/artifact/KiaXtCgTGThVHPzpYE9EyY)
+  - Two short Q&As: how a random variable differs from its distribution, and why "normal variable" and "normal distribution" are not the same thing. English / 中文.
+
 ---
 
 ## 💬 Your comments

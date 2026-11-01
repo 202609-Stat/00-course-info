@@ -45,6 +45,7 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
 
 ## 💬 Your comments
 
-What helped? What is still unclear? Which demo would you like next?
+Questions or suggestions about these pages? Tell us in a one-minute form; your name is optional.
+對這些頁面有疑問或建議嗎？歡迎花一分鐘填寫表單，可不具名。
 
-**[Leave a comment (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSf-7mmgqvjLB7plzSDZUdUBGUnOJtH5gn4yUUJzsNfPEE-5GQ/viewform)**
+**[Leave a comment / 填寫意見表 →](https://docs.google.com/forms/d/e/1FAIpQLSf-7mmgqvjLB7plzSDZUdUBGUnOJtH5gn4yUUJzsNfPEE-5GQ/viewform)**

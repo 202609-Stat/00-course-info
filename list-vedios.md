@@ -34,6 +34,7 @@ Prof. Teng's recorded lectures on YouTube, by chapter.
 | 9.4 | C09.4 母體比例的大樣本檢定 (Large-sample test about a proportion) — self-check: https://ars.particify.de/p/41304079/series/Ch09.4%20Test%20about%20a%20proportion | 18:15 | https://youtu.be/ZNCNqTV8uR4 |
 | 10.3 | Ch 10.3 independent t | 17:06 | https://youtu.be/X8b2r7FZq_Y |
 | 10.4 | Ch 10.4 paired diff | 17:08 | https://youtu.be/kq0xvN0jbRc |
+| 10.5 | C10.5 母體變異數的推論 (Inferences concerning a population variance) | 18:43 | https://youtu.be/jq75pN_qSf0 |
 | 10.6 | Ch 10.6 信賴區間 | 35:42 | https://youtu.be/_PXumpBJqKs |
 | 10.6 | C10.6 假設檢定 | 18:34 | https://youtu.be/gG7E3cv7IsU |
 | 11.3 | C11.3 Tukey's method | 11:52 | https://youtu.be/R1L6cUBTNX8 |

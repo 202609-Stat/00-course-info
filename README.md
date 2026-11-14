@@ -10,6 +10,7 @@ Department of Information Management and Finance <br>National Yang Ming Chiao Tu
 - **[list-homework.md](list-homework.md)** — textbook exercises for each section.
 - **[list-artifacts.md](list-artifacts.md)** — interactive statistics demos and common Q&As (e.g., [chi-square from Z²](https://claude.ai/artifact/LdfPHdD6d4UbpLYokvTxCU), [random variable vs. distribution](https://claude.ai/artifact/KiaXtCgTGThVHPzpYE9EyY)).
 - **[homework-policy.md](homework-policy.md)** — deadlines, file naming and where to submit.
+- **[Z t chi2 F.pdf](Z%20t%20chi2%20F.pdf)** — statistical tables: z, t, χ² and F.
 
 In the following, I will use § to abbreviate Section. 
 

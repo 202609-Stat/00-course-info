@@ -98,7 +98,7 @@ Not in Exam 2: §10.7, §11.4 – §11.7, §13.3, §13.5 – §13.7. The t, χ²
 
 Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [PW-1031](02-practice-workbook/PW-1031.pdf), [PW-1114](02-practice-workbook/PW-1114.pdf).
 
-### Week 4 (1031)
+### Week 4 (1031). HW-1031 due 1114 23:59
 
 #### In class
 

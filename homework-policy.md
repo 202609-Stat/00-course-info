@@ -3,9 +3,7 @@
 [← Back to course information](README.md) · [Homework list](list-homework.md)
 
 **1. Submission Deadline**
-* **Standard Deadline:** Homework assignments for each chapter are due **before the start of the next in-person class**.
-* **Bi-weekly Flex Rule:** For lecture videos and assignments posted during off-class (intermediate) weeks, students are also granted **two weeks** to submit. 
-* Please submit your assignments on time to avoid grade penalties.
+* Homework assignments for each lecture (including in-class and after-class) are due **the next in-person class at 23:59**.
 
 **2. Assignment Content & Naming Format**
 * **Question Numbers:** Please clearly label all question numbers in your submission (e.g., Problem 1, Q1.1).

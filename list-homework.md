@@ -45,7 +45,6 @@ Textbook exercises, by section. "§1.4 Q26" means Section 1.4, Exercise 26.
 | §12.6 | Q4, Q11 |
 | §13.1 | None: the book prints §13.1 exercises together with §13.2’s under “13.2 Exercises” |
 | §13.2 | Q6, Q8, Q9, Q10 |
-| §13.4 | Q3, Q5, Q14 |
 
 ## Practice workbooks in class, 11/14
 
@@ -57,8 +56,7 @@ One printed page per topic, done by hand together right after the topic. Numbers
 | B | §12.2–12.3 ANOVA and test of the slope | same data as A | 2 |
 | C | §12.6 r and r² | same data as A | 3 |
 | D | §13.2 reading a regression output | §13.2 Ex. 6 | 4 |
-| E | §13.4 dummy variables | §13.4 Ex. 3, 5, 14 | 5 |
 
-Session 6: case study "How many iced lattes on Saturday?" reviews A–E. §12.4 and §12.5 are taught by video only.
+Session 6: case study "How many iced lattes on Saturday?" reviews A–D. §12.4 and §12.5 are taught by video only.
 
 Submission rules: see **[homework-policy.md](homework-policy.md)**.

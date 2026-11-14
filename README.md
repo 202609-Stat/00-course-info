@@ -22,7 +22,7 @@ In the following, I will use § to abbreviate Section.
 - ✅ Week 4 (10/31)
 - [ ] Week 5 (11/14)
 - ❌ Week 6 (11/28) No Class (選舉日）
-- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13 — §10.1–10.6, 11.1–11.3, 12.1–12.6, 13.1, 13.2, 13.4 (not 10.7, 11.4–11.7, 13.3, 13.5–13.7); t, χ² and F tables are printed on the paper
+- 🥳 Week 7 (12/12) Exam 2: Ch 10 to 13 — §10.1–10.6, 11.1–11.3, 12.1–12.6, 13.1, 13.2 (not 10.7, 11.4–11.7, 13.3–13.7); t, χ² and F tables are printed on the paper
 - ❌ Week 8 (12/26)  No Class (行憲紀念日）
 
 ## Contents covered in Exam 1
@@ -93,9 +93,9 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). In-class exercises: [I
 | ch10 | §10.1 – §10.6 |
 | ch11 | §11.1 – §11.3 |
 | ch12 | §12.1 – §12.6 |
-| ch13 | §13.1, §13.2, §13.4 |
+| ch13 | §13.1, §13.2 |
 
-Not in Exam 2: §10.7, §11.4 – §11.7, §13.3, §13.5 – §13.7. The t, χ² and F tables are printed on the exam paper.
+Not in Exam 2: §10.7, §11.4 – §11.7, §13.3 – §13.7. The t, χ² and F tables are printed on the exam paper.
 
 Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [PW-1031](02-practice-workbook/PW-1031.pdf), [PW-1114](02-practice-workbook/PW-1114.pdf).
 
@@ -133,7 +133,8 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [P
 
 1. §12.4 Model diagnostics (模型診斷)
 2. §12.5 Prediction intervals (預測區間)
-3. Optional: §12.1, §12.2 (already taught in class)
+3. §12.6 Correlation analysis (相關分析) (video coming soon)
+4. Optional: §12.1, §12.2 (already taught in class)
 
 ### Week 6 (1128): No class (選舉日)
 
@@ -144,7 +145,7 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [P
 1. Review of the after-class videos (§12.4, §12.5); finish any IC-1114 steps left from 11/14
 2. Homework clinic, ch10–11: reading the t table (§10.1), one-sample t test (§10.2), two-sample pooled t test (§10.3), filling in an ANOVA table and testing (§11.2)
 3. How to build your A4 formula sheet
-4. Homework clinic, ch12–13: fitted line and prediction (§12.1), ANOVA for regression and the test of the slope (§12.2, §12.3), r and r² (§12.6), reading a multiple-regression printout with a dummy variable (§13.2, §13.4); open questions and exam logistics
+4. Homework clinic, ch12–13: fitted line and prediction (§12.1), ANOVA for regression and the test of the slope (§12.2, §12.3), r and r² (§12.6), reading a multiple-regression printout (§13.2); open questions and exam logistics
 
 #### Afternoon: Exam 2 (150 minutes)
 

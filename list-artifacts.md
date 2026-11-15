@@ -6,6 +6,11 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
 
 **[Open the table of contents page / 開啟互動示範目錄 →](https://claude.ai/artifact/TCTuT7f77Nkrv3Zc9mmTdi)**
 
+## Across the course
+
+- ✅ A brief history of statistics / 統計學簡史 — [open the page](https://claude.ai/artifact/8qkrtEysZE1beHqBRySiSK)
+  - The person behind each chapter of the textbook, from the first charts in 1786 to the rank tests of 1945, with a drawing of each one’s key idea.
+
 ## Ch. 5 Discrete Probability Distributions
 
 - ✅ Bernoulli trials — [open the demo](https://claude.ai/artifact/GTeVF9r8guehMg9Asrn7QB)
@@ -46,6 +51,13 @@ Interactive demos, listed by textbook chapter (Mendenhall, Beaver & Beaver, *Int
   - Two short Q&As: how a random variable differs from its distribution, and why "normal variable" and "normal distribution" are not the same thing. English / 中文.
 - ✅ Why the claim goes in Hₐ, not H₀ — [open the page](https://claude.ai/artifact/76Kn8PkYeYRq98DufGGVRz)
   - A student's question: 為什麼要把想驗證的 claim 放在 Hₐ 而非 H₀？這和型一、型二錯誤有什麼關係？ Answer: α is the only error we control, so "support the claim" must mean "reject H₀"; with the 880-ton example, a decision-vs-truth table and the court analogy. English / 中文.
+- ✅ Rejection region and p-value / 拒絕域與 p 值 — [open the page](https://claude.ai/artifact/5nyp8uXNbGBKhfmL2trzMA)
+  - Two routes to one decision: z₀ falls in the rejection region exactly when p ≤ α, because the tail probability shrinks as the statistic moves out. Right, left and two-tailed forms side by side, a worked z₀ = 2.00 example, and why a small p is not a large effect. English / 中文.
+- ✅ Writing H₀ and Hₐ, and the ANOVA H₀ / 如何寫 H₀ 與 Hₐ — [open the page](https://claude.ai/artifact/7TEwcHQ7PH9x9wdcY8ugtf)
+  - H₀ carries the equality because a test needs one specific value to get a distribution from; Hₐ carries the claim. Then ANOVA: why H₀ is always "the grouping explains nothing" — only under equality does F have an F(k−1, n−k) distribution, differences only push MSB up, and the model should earn its keep. Same logic for the regression overall F test. English / 中文.
+- ✅ Is regression a reduced case of a neural network? / 迴歸作為最小的神經網路 — [open the page](https://claude.ai/artifact/WPGWqgzCUCj9W1DgJkMi4k)
+  - Yes: no hidden layer, one output, no activation, squared-error loss — that is least squares. Two diagrams show the small network and the same network reduced, with the algebra of why identity activations collapse any depth to one linear map, and what a network gives up (standard errors, t and F tests, intervals). English / 中文.
+
 
 ---
 

@@ -126,8 +126,7 @@ Videos: [list-lecture-vedios.md](list-lecture-vedios.md). Practice workbooks: [P
 2. §12.1 Simple linear regression; §12.2 ANOVA for regression; §12.3 Testing the slope
 3. §12.6 Correlation analysis; §13.1 The multiple regression model
 4. §13.2 Multiple regression analysis; reading a regression output together, by hand
-5. §13.4 Qualitative predictors (dummy variables)
-6. In-class case study IC-1114 "How many iced lattes on Saturday?"
+5. In-class case study IC-1114 "How many iced lattes on Saturday?"
 
 #### After class ([videos](list-lecture-vedios.md))
 
